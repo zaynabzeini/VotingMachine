@@ -1,5 +1,5 @@
 # Voting Machine Project
-Within the documentation file, a user manual describing this project, with visuals, can be found. Below is a similar summary.
+Within the documentation folder, a user manual describing this project, with visuals, can be found. Below is a similar summary.
 
 The software must first be compiled through the javac PerfectCandidate.java command and then run using java PerfectCandidate. 
 The screen should display a window, asking for a path to the desired input file; it will give the option to browse for it or have the user manually enter its name as seen below. Once the file is chosen, the user should press “OK.”     
